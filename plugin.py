@@ -1,5 +1,6 @@
 from Plugins.Plugin import PluginDescriptor
 
+
 def main(session, **kwargs):
     import os
     os.system('mkdir -p /tmp/ofwlauncher')
