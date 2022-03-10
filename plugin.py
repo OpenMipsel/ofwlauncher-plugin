@@ -16,7 +16,7 @@ def startSetup(menuid):
           main,
           'ofw_launcher',
           None)]
-    print 'menuid =  %s' % menuid
+    print('menuid =  %s' % menuid)
     return []
 
 
